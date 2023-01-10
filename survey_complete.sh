@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=445893813
 
 echo ${EXAMCODE}
